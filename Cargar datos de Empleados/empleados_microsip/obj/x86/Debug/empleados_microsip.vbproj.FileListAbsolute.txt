@@ -1,0 +1,144 @@
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\bin\Debug\empleados_microsip.exe
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\bin\Debug\empleados_microsip.pdb
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\bin\Debug\empleados_microsip.xml
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\obj\x86\Debug\empleados_microsip.Form1.resources
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\obj\x86\Debug\empleados_microsip.Resources.resources
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\obj\x86\Debug\empleados_microsip.vbproj.GenerateResource.Cache
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\obj\x86\Debug\empleados_microsip.exe
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\obj\x86\Debug\empleados_microsip.xml
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\obj\x86\Debug\empleados_microsip.pdb
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\bin\Debug\firebirdsql.data.firebirdclient.dll
+C:\Users\Soporte\AppData\Local\Temporary Projects\empleados_microsip\obj\x86\Debug\empleados_microsip.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\obj\x86\Debug\empleados_microsip.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\obj\x86\Debug\empleados_microsip.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\obj\x86\Debug\empleados_microsip.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\bin\Debug\empleados_microsip.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\bin\Debug\empleados_microsip.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\bin\Debug\empleados_microsip.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\bin\Debug\firebirdsql.data.firebirdclient.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\obj\x86\Debug\empleados_microsip.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\obj\x86\Debug\empleados_microsip.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\obj\x86\Debug\empleados_microsip.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\obj\x86\Debug\empleados_microsip.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\bin\Debug\empleados_microsip.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\bin\Debug\empleados_microsip.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\bin\Debug\System.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\obj\x86\Debug\empleados_microsip.TrustInfo.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\obj\x86\Debug\empleados_microsip.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip\empleados_microsip\obj\x86\Debug\empleados_microsip.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\empleados_microsip.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\empleados_microsip.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\empleados_microsip.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\empleados_microsip.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\empleados_microsip.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\firebirdsql.data.firebirdclient.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\System.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.TrustInfo.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\empleados_microsip.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\empleados_microsip.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\empleados_microsip.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\empleados_microsip.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\empleados_microsip.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\bin\Debug\System.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\obj\x86\Debug\empleados_microsip.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\obj\x86\Debug\empleados_microsip.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\obj\x86\Debug\empleados_microsip.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\bin\Debug\empleados_microsip.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\bin\Debug\empleados_microsip.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\bin\Debug\empleados_microsip.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\bin\Debug\empleados_microsip.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\bin\Debug\empleados_microsip.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\bin\Debug\System.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\obj\x86\Debug\empleados_microsip.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\obj\x86\Debug\empleados_microsip.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\obj\x86\Debug\empleados_microsip.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\obj\x86\Debug\empleados_microsip.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\obj\x86\Debug\empleados_microsip.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\obj\x86\Debug\empleados_microsip.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017\empleados_microsip\obj\x86\Debug\empleados_microsip.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\bin\Debug\empleados_microsip.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\bin\Debug\empleados_microsip.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\bin\Debug\empleados_microsip.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\bin\Debug\empleados_microsip.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\bin\Debug\empleados_microsip.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\bin\Debug\System.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - copia\empleados_microsip\obj\x86\Debug\empleados_microsip.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\obj\x86\Debug\empleados_microsip.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\obj\x86\Debug\empleados_microsip.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\bin\Debug\empleados_microsip.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\bin\Debug\empleados_microsip.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\bin\Debug\empleados_microsip.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\bin\Debug\empleados_microsip.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\bin\Debug\empleados_microsip.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\bin\Debug\System.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\obj\x86\Debug\empleados_microsip.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\obj\x86\Debug\empleados_microsip.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\obj\x86\Debug\empleados_microsip.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\obj\x86\Debug\empleados_microsip.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\obj\x86\Debug\empleados_microsip.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\obj\x86\Debug\empleados_microsip.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\obj\x86\Debug\empleados_microsip.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\empleados_microsip - 2017 - julio\empleados_microsip\obj\x86\Debug\empleados_microsip.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\bin\Debug\empleados_microsip.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\bin\Debug\empleados_microsip.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\bin\Debug\empleados_microsip.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\bin\Debug\empleados_microsip.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\bin\Debug\empleados_microsip.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\bin\Debug\System.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.TrustInfo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.vbprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.Form1.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.vbproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\bin\Debug\empleados_microsip.exe.manifest
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\bin\Debug\empleados_microsip.application
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\bin\Debug\empleados_microsip.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\bin\Debug\empleados_microsip.pdb
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\bin\Debug\empleados_microsip.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\bin\Debug\System.dll
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.TrustInfo.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.exe.manifest
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\Cargar datos de Empleados\empleados_microsip\obj\x86\Debug\empleados_microsip.application
